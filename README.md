@@ -24,7 +24,7 @@ This will keep the app running and up to date in our container.
 
 ## Docker and Security
 
-Docker scout is used to analyse images for vulnerabilities. Docker Scout is available under Docker Desktop. Follow these[instructions](https://docs.docker.com/scout/image-analysis/) to add this feature to your terminal and analyse local images. 
+Docker scout is used to analyse images for vulnerabilities. Docker Scout is available under Docker Desktop. Follow these[instructions](https://docs.docker.com/scout/image-analysis/) to add this feature to your terminal and analyse local images. It will add an install-scout.sh local file.
 - list your images with 
   * docker images
 - analyse an image with command:
