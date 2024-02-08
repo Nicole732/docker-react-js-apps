@@ -20,7 +20,7 @@ function App() {
             Share
           </Link>
           <Link to="/create" className="navbar_link">
-          Edit
+            Contact us
           </Link>
         </div>
       </nav>
